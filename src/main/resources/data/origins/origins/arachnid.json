@@ -4,8 +4,8 @@
 		"origins:master_of_webs",
 		"origins:carnivore",
 		"origins:fragile",
-        "origins:arthropod",
-        "origins:fall_immunity"
+		"origins:arthropod",
+		"origins:fall_immunity"
 	],
 	"icon": {
 		"item": "minecraft:cobweb"
